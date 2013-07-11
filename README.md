@@ -1,4 +1,4 @@
-# SlickQuiz jQuery Plugin v1.0
+# DP-Quiz - SlickQuiz jQuery Plugin v1.0
 * * *
 
 ## Overview
